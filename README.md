@@ -1,5 +1,15 @@
 ## Olá! Eu sou o Robert William
 
+# Sou Graduando em Análise e Desenvolvimento de Sistemas e estou em busca de oportunidades e colaboração em projetos Full-Stack para profundo aprendizado.
+
+👨‍🎓 - Graduando em Engenharia de Redes de Comunicação e Análise e desenvolvimento de Sistemas
+💬 - Em JavaScript me aprofundo cada dia mais em Nodejs, Reactjs e React Native.
+💬 - Em Python trabalhei utilizando Selenium, realizei cursos em Data Science (Pandas).
+💬 - Já obtive bastante contato com a linguagem C++, sua estrutura, OOA, pilha, árvores e etc. 
+💻 - Já realizei projetos privados em python, porém estou me aprofudando em JavaScript e seu mundo.
+👨‍💼 - Gosto de novos desafios e sempre prezando a agilidade, integridade e honestidade.
+
+
 <div align="center">
   <a href="https://github.com/Robert-William0963">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Robert-William0963&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
