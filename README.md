@@ -10,7 +10,7 @@
    💬 - Em JavaScript me aprofundo cada dia mais em Nodejs, Reactjs e React Native. </br>
    💬 - Em Python realizei projetos utilizando Selenium e OpenCV, e, também, realizei cursos em Data Science (Pandas)  </br>
    💬 - Já obtive bastante contato com a linguagem C++, sua estrutura, POO, pilha, árvores e etc.  </br>
-   👨‍💼 - Atualmente trabalho como Analista de Suporte Técnico N1 utilizando comandos Linux, Protocolos de Rede e acesso SSH em servidores de URA, Web, Sip e etc.  </br>
+   👨‍💼 - Atualmente trabalho como Suporte Técnico N1 utilizando comandos Linux, Protocolos de Rede e acesso SSH em servidores de URA, Web, Sip e etc.  </br>
    👨‍💼 - Gosto de novos desafios e sempre prezando a agilidade, integridade e honestidade. </br>
 </div> 
 
