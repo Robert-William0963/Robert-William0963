@@ -5,7 +5,7 @@
 </div> 
     
 <div> 
-   👨‍🎓 - Graduando em Engenharia de Redes de Comunicação e Análise e desenvolvimento de Sistemas </br>
+   👨‍🎓 - Graduando em Análise e desenvolvimento de Sistemas </br>
    💻 - Já realizei projetos privados em python, porém estou me aprofudando em JavaScript e seu mundo. </br>
    💬 - Em JavaScript me aprofundo cada dia mais em Nodejs, Reactjs e React Native. </br>
    💬 - Em Python realizei projetos utilizando Selenium e OpenCV, e, também, realizei cursos em Data Science (Pandas)  </br>
